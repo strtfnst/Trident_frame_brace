@@ -3,6 +3,12 @@ Frame braces for 300 Voron Trident
 
 ![Banner image](Images/render.png)
 
+# Why a brace?
+I loved to look of frame braces. So made my own version swappable covers. Safe some filament after changing your accent color.
+Braces printed out of proper material (ABS/ASA/...). Cover could be printed in some fancy material like luminous PLA. 
+Would PLA melt away. Propably. But maybe it looks cool.
+
+
 # What you need
 ## Printed Parts
   - brace_normal_x3.stl
@@ -29,5 +35,16 @@ Print parts in Voron print settings. Parts need no support and are oriented corr
 ![Mounted brace](Images/20250407_190254.jpg)
 
 
+# Issues / ToDo / Ideas
 
+## Issues
+no known yet
+
+## ToDo
+  - check for other Trident sizes
+
+## Ideas
+  - some more cover variants (trident, Voron logo, serial,...)
+
+You like my little project? Would be nice if you visit my printables site and leave some likes (just want a free spool ;) )
 
