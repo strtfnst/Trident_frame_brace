@@ -46,5 +46,6 @@ no known yet
 ## Ideas
   - some more cover variants (trident, Voron logo, serial,...)
 
-You like my little project? Would be nice if you visit my printables site and leave some likes (just want a free spool ;) )
 
+You like my little project? Would be nice if you visit my printables site and leave some likes (just want a free spool ;) )
+https://www.printables.com/model/1257855-voron-trident-frame-brace-with-cover
