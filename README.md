@@ -43,7 +43,7 @@ Print parts in Voron print settings. Parts need no support and are oriented corr
     
   - Enjoy.
 
-![Mounted brace](Images/20250407_190254.jpg)
+![Mounted brace](Images/20250411_103828.jpg)
 
 
 # Issues / ToDo / Ideas
